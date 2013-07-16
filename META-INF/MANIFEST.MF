@@ -3,7 +3,7 @@ Eclipse-BuddyPolicy: global
 Bundle-ManifestVersion: 2
 Bundle-Name: net.evalcode.services.lib
 Bundle-SymbolicName: net.evalcode.services.lib
-Bundle-Version: 0.1.0
+Bundle-Version: 1.2.0
 Bundle-Vendor: evalcode.net
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Require-Bundle: org.eclipse.osgi;bundle-version="3.6";visibility:=reexport
