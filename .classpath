@@ -3,13 +3,14 @@
 	<classpathentry exported="true" kind="lib" path="lib/common/antlr-2.7.6.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/aopalliance.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/backport-util-concurrent.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/common/bigmemory-4.0.4.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/c3p0-0.9.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/cglib-2.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/commons-collections-3.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/commons-lang-2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/concurrentlinkedhashmap-lru-1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/dom4j-1.6.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/common/ehcache-2.7.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/common/ehcache-ee-2.7.4.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/ehcache-jgroupsreplication-1.7.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/guice-3.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/guice-servlet-3.0.jar"/>
