@@ -13,7 +13,7 @@
 	<classpathentry exported="true" kind="lib" path="lib/common/ehcache-ee-2.7.4.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/guice-3.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/guice-servlet-3.0.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/common/guava-r09.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/common/guava-15.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/hibernate-jpa-2.0-api.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/hibernate-validator-4.1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/common/hibernate3.jar"/>
